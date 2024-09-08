@@ -1,0 +1,1 @@
+bu content ilk sayfadır
