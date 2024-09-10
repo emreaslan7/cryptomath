@@ -109,7 +109,7 @@ function updateTOC(url, theme) {
               theme
             ),
             SubHeading(
-              "1.2.2",
+              "1.2",
               "/number-theory-cryptography/modular-arithmetic/divisibility.html",
               "Divisibility",
               theme
