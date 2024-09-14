@@ -114,6 +114,12 @@ function updateTOC(url, theme) {
               "Divisibility",
               theme
             ),
+            SubHeading(
+              "1.3",
+              "/number-theory-cryptography/modular-arithmetic/remainders.html",
+              "Remainders",
+              theme
+            ),
           ],
           true
         )
