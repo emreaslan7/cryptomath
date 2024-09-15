@@ -120,6 +120,12 @@ function updateTOC(url, theme) {
               "Remainders",
               theme
             ),
+            SubHeading(
+              "1.4",
+              "/number-theory-cryptography/modular-arithmetic/modular-arithmetic.html",
+              "Modular Arithmetic",
+              theme
+            ),
           ],
           true
         )

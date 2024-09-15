@@ -9,6 +9,7 @@
 - [Numbers](./number-theory-cryptography/modular-arithmetic/numbers.md)
 - [Divisibility](./number-theory-cryptography/modular-arithmetic/divisibility.md)
 - [Remainders](./number-theory-cryptography/modular-arithmetic/remainders.md)
+- [Remainders](./number-theory-cryptography/modular-arithmetic/modular-arithmetic.md)
 
 # TR
 
