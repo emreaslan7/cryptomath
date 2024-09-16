@@ -11,6 +11,7 @@
 - [Remainders](./number-theory-cryptography/modular-arithmetic/remainders.md)
 - [Modular Arithmetic](./number-theory-cryptography/modular-arithmetic/modular-arithmetic.md)
 - [Modular Subtraction and Division](./number-theory-cryptography/modular-arithmetic/modular-subraction-and-division.md)
+- [Questions](./number-theory-cryptography/modular-arithmetic/questions.md)
 
 # TR
 

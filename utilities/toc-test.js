@@ -132,6 +132,12 @@ function updateTOC(url, theme) {
               "Modular Subraction and Division",
               theme
             ),
+            SubHeading(
+              "1.6",
+              "/number-theory-cryptography/modular-arithmetic/questions.html",
+              "Questions",
+              theme
+            ),
           ],
           true
         )
