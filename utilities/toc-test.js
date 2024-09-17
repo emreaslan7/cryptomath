@@ -142,7 +142,28 @@ function updateTOC(url, theme) {
           true
         )
       ),
-    ])}`;
+    ])}
+        ${SubHeadingList([
+          SubHeading(
+            "2.",
+            "",
+            "Euclid's Algorithm",
+            theme,
+            "13px",
+            "bold",
+            SubHeadingList(
+              [
+                SubHeading(
+                  "2.1",
+                  "/number-theory-cryptography/euclids-algorithm/greatest-common-divisor.html",
+                  "Greatest Common Divisor",
+                  theme
+                ),
+              ],
+              true
+            )
+          ),
+        ])}`;
 
   const tocContentTr = `
     ${Heading("1. Lineer Cebir")}

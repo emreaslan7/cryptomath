@@ -13,6 +13,10 @@
 - [Modular Subtraction and Division](./number-theory-cryptography/modular-arithmetic/modular-subraction-and-division.md)
 - [Questions](./number-theory-cryptography/modular-arithmetic/questions.md)
 
+## 2. Euclid's Algorithm
+
+- [Greatest Common Divisor](./number-theory-cryptography/euclids-algorithm/greatest-common-divisor.md)
+
 # TR
 
 - [turkce](./tr/README.md)

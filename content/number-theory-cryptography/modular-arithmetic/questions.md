@@ -2,7 +2,7 @@
 
 <details style="cursor: pointer;">
 <summary>
-  <b>Question-1</b> : What is the remainder of $ (77+95 \cdot 79) \cdot 82 $ when divided by $3$?
+  <b>Question-1</b> :&emsp; What is the remainder of $ (77+95 \cdot 79) \cdot 82 $ when divided by $3$?
 
  <p>See answer ▼</p>
 
@@ -19,7 +19,7 @@
 
 <details style="cursor: pointer;">
 <summary>
-  <b>Question-2</b> : What is the remainder of $(34 -14  \cdot 25) \cdot (23 \cdot 18 + 87)$ when divided by $5$?
+  <b>Question-2</b> :&emsp; What is the remainder of $(34 -14  \cdot 25) \cdot (23 \cdot 18 + 87)$ when divided by $5$?
 
  <p>See answer ▼</p>
 
@@ -31,7 +31,7 @@
 
 </details>
 
-### <b>Question-3</b> : What are the last two digits of the number $99^{99}$?
+### <b>Question-3</b> : &emsp; What are the last two digits of the number $99^{99}$?
 
 The number $99^{99}$ is huge, we do not want to compute it. Instead, we can use remainders. Note that the number consisting of the last two digits is just the remainder after the division by $100$. Thus, we are actually interested in the remainder of the number $99^{99}$ when divided by $100$.
 
@@ -46,7 +46,7 @@ Note that one cannot just substitute any number in any expression by its congrue
 <br>
 <br>
 
-### <b>Question-4</b> : Is the number $3475$ divisible by $3$?
+### <b>Question-4</b> : &emsp; Is the number $3475$ divisible by $3$?
 
 To solve this problem it is enough to compute the remainder of the number after the division by $3$: the number is divisible by $3$ if the remainder is $0$.
 
@@ -69,7 +69,7 @@ Note, that the same argument can be applied in a general setting, giving the fol
 
 <details style="cursor: pointer;">
 <summary>
-  <b>Question-5</b> : What is the remainder of the number $12^{100}$ when divided by $11$?
+  <b>Question-5</b> : &emsp; What is the remainder of the number $12^{100}$ when divided by $11$?
 
  <p>See answer ▼</p>
 
@@ -84,7 +84,7 @@ Note, that the same argument can be applied in a general setting, giving the fol
 <br>
 <br>
 
-### <b>Question-6</b> : Find a remainder $x$ such that $3 \cdot x ≡ 5 \mod 7$?
+### <b>Question-6</b> : &emsp; Find a remainder $x$ such that $3 \cdot x ≡ 5 \mod 7$?
 
 We must multiply $3$ by such an integer that when we divide the resulting number by $7$, $5$ gives the remainder.
 
@@ -93,7 +93,7 @@ The first positive number that gives a remainder of $5$ is $5$. However, we cann
 <br>
 <br>
 
-### <b>Question-7</b> : Find a remainder $x$ such that $12 \cdot x ≡ 3 \mod 7$?
+### <b>Question-7</b> : &emsp; Find a remainder $x$ such that $12 \cdot x ≡ 3 \mod 7$?
 
 Again, try the way just before. But first of all, we can minimize this problem to $$ 5\cdot x ≡ 3 \mod 7$$
 
