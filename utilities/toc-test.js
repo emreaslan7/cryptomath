@@ -159,6 +159,12 @@ function updateTOC(url, theme) {
                   "Greatest Common Divisor",
                   theme
                 ),
+                SubHeading(
+                  "2.2",
+                  "/number-theory-cryptography/euclids-algorithm/euclids-algorithm.html",
+                  "Euclid's Algorithm",
+                  theme
+                ),
               ],
               true
             )
