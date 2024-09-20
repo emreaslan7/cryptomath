@@ -165,6 +165,12 @@ function updateTOC(url, theme) {
                   "Euclid's Algorithm",
                   theme
                 ),
+                SubHeading(
+                  "2.3",
+                  "/number-theory-cryptography/euclids-algorithm/extended-euclids-algorithm.html",
+                  "Extended Euclid's Algorithm",
+                  theme
+                ),
               ],
               true
             )
