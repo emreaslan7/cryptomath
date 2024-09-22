@@ -171,6 +171,12 @@ function updateTOC(url, theme) {
                   "Extended Euclid's Algorithm",
                   theme
                 ),
+                SubHeading(
+                  "2.4",
+                  "/number-theory-cryptography/euclids-algorithm/least-common-multiple.html",
+                  "Least Common Multiple",
+                  theme
+                ),
               ],
               true
             )

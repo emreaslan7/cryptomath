@@ -18,6 +18,7 @@
 - [Greatest Common Divisor](./number-theory-cryptography/euclids-algorithm/greatest-common-divisor.md)
 - [Euclid's Algorithm](./number-theory-cryptography/euclids-algorithm/euclids-algorithm.md)
 - [Extended Euclid's Algorithm](./number-theory-cryptography/euclids-algorithm/extended-euclids-algorithm.md)
+- [Least Common Multiple](./number-theory-cryptography/euclids-algorithm/least-common-multiple.md)
 
 # TR
 
