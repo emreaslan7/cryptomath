@@ -19,6 +19,7 @@
 - [Euclid's Algorithm](./number-theory-cryptography/euclids-algorithm/euclids-algorithm.md)
 - [Extended Euclid's Algorithm](./number-theory-cryptography/euclids-algorithm/extended-euclids-algorithm.md)
 - [Least Common Multiple](./number-theory-cryptography/euclids-algorithm/least-common-multiple.md)
+- [Diophantine Theorem](./number-theory-cryptography/euclids-algorithm/diophantine-theorem.md)
 
 # TR
 

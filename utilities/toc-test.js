@@ -177,6 +177,12 @@ function updateTOC(url, theme) {
                   "Least Common Multiple",
                   theme
                 ),
+                SubHeading(
+                  "2.5",
+                  "/number-theory-cryptography/euclids-algorithm/diophantine-theorem.html",
+                  "Diophantine Theorem",
+                  theme
+                ),
               ],
               true
             )
