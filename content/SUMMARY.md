@@ -18,8 +18,13 @@
 - [Greatest Common Divisor](./number-theory-cryptography/euclids-algorithm/greatest-common-divisor.md)
 - [Euclid's Algorithm](./number-theory-cryptography/euclids-algorithm/euclids-algorithm.md)
 - [Extended Euclid's Algorithm](./number-theory-cryptography/euclids-algorithm/extended-euclids-algorithm.md)
-- [Least Common Multiple](./number-theory-cryptography/euclids-algorithm/least-common-multiple.md)
-- [Diophantine Theorem](./number-theory-cryptography/euclids-algorithm/diophantine-theorem.md)
+- ["Applications"](./number-theory-cryptography/euclids-algorithm/applications/index.md)
+
+  ### 2.4 Applications
+
+  - [Least Common Multiple](./number-theory-cryptography/euclids-algorithm/applications/least-common-multiple.md)
+  - [Diophantine Theorem](./number-theory-cryptography/euclids-algorithm/applications/diophantine-theorem.md)
+  - [Modular Division](./number-theory-cryptography/euclids-algorithm/applications/modular-division.md)
 
 # TR
 

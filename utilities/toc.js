@@ -173,15 +173,34 @@ function updateTOC(url, theme) {
                 ),
                 SubHeading(
                   "2.4",
-                  "/number-theory-cryptography/euclids-algorithm/least-common-multiple.html",
-                  "Least Common Multiple",
-                  theme
-                ),
-                SubHeading(
-                  "2.5",
-                  "/number-theory-cryptography/euclids-algorithm/diophantine-theorem.html",
-                  "Diophantine Theorem",
-                  theme
+                  "/number-theory-cryptography/euclids-algorithm/applications/index.html",
+                  "Applications",
+                  theme,
+                  "12px",
+                  "normal",
+                  SubHeadingList(
+                    [
+                      SubHeading(
+                        "2.4.1",
+                        "/number-theory-cryptography/euclids-algorithm/applications/least-common-multiple.html",
+                        "Least Common Multiple",
+                        theme
+                      ),
+                      SubHeading(
+                        "2.4.2",
+                        "/number-theory-cryptography/euclids-algorithm/applications/diophantine-theorem.html",
+                        "Diophantine Theorem",
+                        theme
+                      ),
+                      SubHeading(
+                        "2.4.3",
+                        "/number-theory-cryptography/euclids-algorithm/applications/modular-division.html",
+                        "Modular Division",
+                        theme
+                      ),
+                    ],
+                    true
+                  )
                 ),
               ],
               true
