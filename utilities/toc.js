@@ -206,6 +206,81 @@ function updateTOC(url, theme) {
               true
             )
           ),
+          SubHeading(
+            "3.",
+            "",
+            "Building Blocks of Cryptography",
+            theme,
+            "13px",
+            "bold",
+            SubHeadingList(
+              [
+                SubHeading(
+                  "3.1",
+                  "/number-theory-cryptography/building-blocks-of-cryptography/integer-factorization/index.html",
+                  "Integer Factorization",
+                  theme,
+                  "12px",
+                  "normal",
+                  SubHeadingList(
+                    [
+                      SubHeading(
+                        "3.1.1",
+                        "/number-theory-cryptography/building-blocks-of-cryptography/integer-factorization/prime-numbers.html",
+                        "Prime Numbers",
+                        theme
+                      ),
+                      SubHeading(
+                        "3.1.2",
+                        "/number-theory-cryptography/building-blocks-of-cryptography/integer-factorization/factoring.html",
+                        "Factoring",
+                        theme
+                      ),
+                    ],
+                    true
+                  )
+                ),
+                SubHeading(
+                  "3.2",
+                  "/number-theory-cryptography/building-blocks-of-cryptography/chinese-remainder-theorem.html",
+                  "Chinese Remainder Theorem",
+                  theme
+                ),
+                SubHeading(
+                  "3.3",
+                  "/number-theory-cryptography/building-blocks-of-cryptography/modular-exponentiation/index.html",
+                  "Modular Exponentiation",
+                  theme,
+                  "12px",
+                  "normal",
+                  SubHeadingList(
+                    [
+                      SubHeading(
+                        "3.3.1",
+                        "/number-theory-cryptography/building-blocks-of-cryptography/modular-exponentiation/fast-modular-exponentiation.html",
+                        "Fast Modular Exponentiation",
+                        theme
+                      ),
+                      SubHeading(
+                        "3.3.2",
+                        "/number-theory-cryptography/building-blocks-of-cryptography/modular-exponentiation/fermats-little-theorem.html",
+                        "Fermat's Little Theorem",
+                        theme
+                      ),
+                      SubHeading(
+                        "3.3.3",
+                        "/number-theory-cryptography/building-blocks-of-cryptography/modular-exponentiation/eulers-theorem.html",
+                        "Euler's Theorem",
+                        theme
+                      ),
+                    ],
+                    true
+                  )
+                ),
+              ],
+              true
+            )
+          ),
         ])}`;
 
   const tocContentTr = `
