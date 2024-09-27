@@ -46,7 +46,3 @@ jobs:
 
       - name: Generate static content for the book
         run: mdbook build
-
-
-      - name: Deploy to Vercel
-        run: vercel book --prod --token=${{ secrets.VERCEL_TOKEN }}
