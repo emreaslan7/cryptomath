@@ -321,3 +321,23 @@ function initializeTOC() {
 }
 
 initializeTOC();
+
+function loadKaTeXStylesheet() {
+  // Create a link element for the KaTeX CSS
+  var link = document.createElement("link");
+  link.rel = "stylesheet";
+  link.href = "https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css";
+
+  // Find the <main> element inside the div with id "content"
+  var mainElement = document.querySelector("#content main");
+
+  // Append the link element to the <main> element
+  if (mainElement) {
+    mainElement.appendChild(link);
+  } else {
+    console.error("Main element not found inside #content");
+  }
+}
+
+// Call the function to load the KaTeX stylesheet
+loadKaTeXStylesheet();
