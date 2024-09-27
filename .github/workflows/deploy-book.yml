@@ -3,8 +3,7 @@ name: your.url.here
 
 # https://github.com/orgs/vercel/discussions/3307
 env:
-  VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-  VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: "true"
 
 on:
   # push: # this will trigger on every push to main branch
@@ -48,14 +47,6 @@ jobs:
       - name: Generate static content for the book
         run: mdbook build
 
-      - name: Setup Node.js (required to install Vercel CLI)
-        uses: actions/setup-node@v3
-
-      - name: Install Vercel CLI
-        run: npm install --global vercel
-
-      - name: Pull Vercel environment information
-        run: vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
 
       - name: Deploy to Vercel
         run: vercel book --prod --token=${{ secrets.VERCEL_TOKEN }}
