@@ -37,6 +37,25 @@ jobs:
           curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
           rustup update
           cargo install --version ${MDBOOK_VERSION} mdbook
+
+      - name: Install KaTeX preprocessor
+        uses: extractions/setup-crate@v1
+        with:
+          owner: lzanini
+          name: mdbook-katex
+
+      - name: Install Mermaid preprocessor
+        uses: extractions/setup-crate@v1
+        with:
+          owner: badboy
+          name: mdbook-mermaid
+
+      - name: Install ToC preprocessor
+        uses: extractions/setup-crate@v1
+        with:
+          owner: badboy
+          name: mdbook-toc
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
