@@ -22,9 +22,10 @@ renderer = ["html"]
 [output]
 
 [output.html]
+katex = true
 additional-css = ["./utilities/custom.css"]
 additional-js = ["./utilities/mermaid.min.js", "./utilities/mermaid-init.js", "./utilities/toc.js", "./utilities/marked.min.js"]
-git-repository-url = "https://github.com/username/reponame"
+git-repository-url = "https://github.com/emreaslan7/cryptomath"
 git-repository-icon = "fa-github-alt"
 no-section-label = true
 default-theme = "rust"
