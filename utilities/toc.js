@@ -248,7 +248,7 @@ function updateTOC(url, theme) {
                 ),
                 SubHeading(
                   "3.3",
-                  "/number-theory-cryptography/building-blocks-of-cryptography/modular-exponentiation/index.html",
+                  "",
                   "Modular Exponentiation",
                   theme,
                   "12px",

@@ -35,10 +35,11 @@
 
 - [Chinese Remainder Theorem](./number-theory-cryptography/building-blocks-of-cryptography/chinese-remainder-theorem.md)
 
-- [Modular Exponentiation](./number-theory-cryptography/building-blocks-of-cryptography/modular-exponentiation/index.md)
-  - [Fast Modular Exponentiation](./number-theory-cryptography/building-blocks-of-cryptography/modular-exponentiation/fast-modular-exponentiation.md)
-  - [Fermat's Little Theorem](./number-theory-cryptography/building-blocks-of-cryptography/modular-exponentiation/fermats-little-theorem.md)
-  - [Euler's Theorem](./number-theory-cryptography/building-blocks-of-cryptography/modular-exponentiation/eulers-theorem.md)
+## 3.3 Modular Exponantiation
+
+- [Fast Modular Exponentiation](./number-theory-cryptography/building-blocks-of-cryptography/modular-exponentiation/fast-modular-exponentiation.md)
+- [Fermat's Little Theorem](./number-theory-cryptography/building-blocks-of-cryptography/modular-exponentiation/fermats-little-theorem.md)
+- [Euler's Theorem](./number-theory-cryptography/building-blocks-of-cryptography/modular-exponentiation/eulers-theorem.md)
 
 # TR
 
