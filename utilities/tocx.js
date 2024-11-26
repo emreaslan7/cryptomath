@@ -281,6 +281,62 @@ function updateTOC(url, theme) {
               true
             )
           ),
+          SubHeading(
+            "4.",
+            "",
+            "Cryptography",
+            theme,
+            "13px",
+            "bold",
+            SubHeadingList(
+              [
+                SubHeading(
+                  "4.1",
+                  "/number-theory-cryptography/cryptography/history-of-cryptography.html",
+                  "History of Cryptography",
+                  theme
+                ),
+                SubHeading(
+                  "4.2",
+                  "/number-theory-cryptography/cryptography/one-time-pad.html",
+                  "One-Time Pad",
+                  theme
+                ),
+                SubHeading(
+                  "4.3",
+                  "/number-theory-cryptography/cryptography/many-time-pad-attack.html",
+                  "Many Time Pad Attack",
+                  theme
+                ),
+                SubHeading(
+                  "4.4",
+                  "/number-theory-cryptography/cryptography/rsa-cryptosystem.html",
+                  "RSA Cryptosystem",
+                  theme,
+                  "12px",
+                  "normal",
+                  SubHeadingList(
+                    [
+                      SubHeading(
+                        "4.4.1",
+                        "/number-theory-cryptography/cryptography/rsa-cryptosystem/attacks-and-vulnerabilities.html",
+                        "Attacks and Vulnerabilities",
+                        theme
+                      ),
+                      SubHeading(
+                        "4.4.2",
+                        "/number-theory-cryptography/cryptography/rsa-cryptosystem/randomness-generation.html",
+                        "Randomness Generation",
+                        theme
+                      ),
+                    ],
+                    true
+                  )
+                ),
+              ],
+              true
+            )
+          ),
         ])}`;
 
   const tocContentTr = `
